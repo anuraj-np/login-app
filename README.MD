@@ -10,3 +10,24 @@ To run the application use the below command (Pre-requisites Docker)
 
 docker run -p 8080:8080 anurajkumar/login-app 
 
+Type http://localhost:8080/ in the browser
+
+You will get redirected to the login page as below
+
+You have multiple login options. Login with Google account
+
+You will redirected to the Consent page to Authorize the login request as below
+
+You have given permission to access the profile information and email.
+
+On Accepting the request, you will get logged in.
+
+On logout, you will get the option to log in again with Auth0
+
+All the subsequent login happen without entering the login details with SSO.
+
+
+
+
+
+
