@@ -7,3 +7,4 @@ OpenID Protocol with Authorization code flow is used
 To run the application use the below command (Pre-requisites Docker)
 
 docker run -p 8080:8080 anurajkumar/login-app 
+
